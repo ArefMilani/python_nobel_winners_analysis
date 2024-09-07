@@ -43,9 +43,13 @@ The dataset used in this project is a collection of Nobel Prize winners, which i
 
 ### **Key Insights**
 1. The United States has dominated Nobel Prize awards, especially in the 20th century, with significant contributions in science-related categories.
+![Top 10 Nobel Winning Countries](https://github.com/ArefMilani/python_nobel_winners_analysis/blob/main/images/top_10_countries.png)
 2. Women are underrepresented in the Nobel Prize list, but the trend is slowly improving, particularly in the Peace and Literature categories.
+![](https://github.com/ArefMilani/python_nobel_winners_analysis/blob/main/images/gender_comparison.png)
 3. During and after World War II (1938-1945), certain countries and categories had more significant representations.
 4. There is a notable age range for Nobel Prize winners, with most recipients being older, especially in science-related categories.
+![](https://github.com/ArefMilani/python_nobel_winners_analysis/blob/main/images/age_range.png)
+![](https://github.com/ArefMilani/python_nobel_winners_analysis/blob/main/images/age_vs_category.png)
 5. After 2000, the countries with the most Nobel Prize winners have remained relatively consistent, with a slight increase in diversity.
 
 ### **Conclusion**
